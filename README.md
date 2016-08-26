@@ -1,7 +1,7 @@
 # Typed Msgpack5  [![Build Status](https://travis-ci.org/github/npm-msgpack5.svg?branch=master)](https://travis-ci.org/github/npm-msgpack5)
 
 
-The type definition for [`msgpack5`](git://github.com/mcollina/msgpack5.git)
+The type definition for [`msgpack5`](https://github.com/mcollina/msgpack5)
 
 ## LICENSE
 
