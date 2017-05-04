@@ -1,5 +1,7 @@
 # Typed Msgpack5  [![Build Status](https://travis-ci.org/github/npm-msgpack5.svg?branch=master)](https://travis-ci.org/github/npm-msgpack5)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-msgpack5.svg)](https://greenkeeper.io/)
+
 
 The type definition for [`msgpack5`](https://github.com/mcollina/msgpack5)
 
